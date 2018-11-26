@@ -23,6 +23,7 @@ Could be useful:
   - some music streamer
   - dev boxes/docker containers for breaking stuff
   - Wiki
+  - Squid (caching proxy)
   
 
 Potential cool ideas:
