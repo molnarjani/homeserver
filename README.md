@@ -12,6 +12,7 @@ Must have:
   - Guacamole (RDP, SSH, VNC access for all VMs)
  
 Could be useful:
+  - NAS, backups
   - Gitea (self-hosted git repos)
   - CI/CD pipline
   - Plex (Video streaming)
