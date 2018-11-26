@@ -24,3 +24,6 @@ Could be useful:
   - dev boxes/docker containers for breaking stuff
   - Wiki
   
+
+Potential cool ideas:
+https://github.com/Kickball/awesome-selfhosted
