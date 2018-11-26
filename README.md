@@ -22,3 +22,5 @@ Could be useful:
   - TorrentBox
   - some music streamer
   - dev boxes/docker containers for breaking stuff
+  - Wiki
+  
