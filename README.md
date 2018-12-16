@@ -7,8 +7,9 @@ What this is?
 
 
 Must have:
-  - Proxmox ( On a physical host, for running all vms/containers)
-  - DNS server (Access services/VMs by name)
+  - Proxmox (On a physical host, for running all vms) [Done]
+  - Portainer (On a physical host, for running and managing Docker container) [Done]
+  - Landing page to services
   - Guacamole (RDP, SSH, VNC access for all VMs)
  
 Could be useful:
@@ -24,6 +25,10 @@ Could be useful:
   - dev boxes/docker containers for breaking stuff
   - Wiki
   - Squid (caching proxy)
+
+Ideas using the server:
+  - Alarm clock:
+    - A page/mobile app where i could add alarms and alarms would intetract with wifi controlled lightbulbs + play music to wake me up smoothly
   
 
 Potential cool ideas:
