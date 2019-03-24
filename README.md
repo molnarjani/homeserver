@@ -19,7 +19,7 @@ What this is?
 
 ## Fun
 - Heimdal (Dashboard app)
-- Shairport (Airplay server on linux)
+- Shairport (Airplay server on linux, git@github.com:abrasive/shairport.git, maybe shairport-sync is more maintained)
 - mopidy (MPD server used for alarm clock)
 - Plex (media server)
 - Deluge (torrent)
