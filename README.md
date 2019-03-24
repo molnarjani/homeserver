@@ -5,7 +5,7 @@ What this is?
 - My home server project ideas
 - Some install instructions in case I forget them, possibly config files
 
-#Current setup:
+# Current setup:
 
 ## Infra
 - Proxmox (Debian base)
